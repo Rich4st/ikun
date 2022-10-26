@@ -24,7 +24,8 @@
     "util": "^0.12.5"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://github.com/Rich4st/ikun"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.2",
